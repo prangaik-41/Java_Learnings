@@ -1,5 +1,5 @@
 class Test {
-    void math(int i , int j){
+    int math(int i , int j){
         i = i*2;
         j = j / 2;
         return i+j;
