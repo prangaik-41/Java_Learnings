@@ -5,7 +5,7 @@ public class Calculation_variables {
         int b = 20;
         int sum = a+b;
         int sub = a-b;
-        int multiply = a* b;
+        int multiply = a * b;
 
         System.out.println("Addition:  "+ sum);
         System.out.println("Substraction: "+ sub);
